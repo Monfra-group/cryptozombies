@@ -1,0 +1,17 @@
+{
+  "name": "contracts",
+  "version": "0.0.1",
+  "description": "Ethereum smart contracts for the BlockchainGuru1018 protocol",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "testrpc": "testrpc -a 15",
+    "test": "truffle test"
+  },
+  "private": true,
+  "dependencies": {
+    "solc": "^0.8.9"
+  }
+}
