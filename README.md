@@ -26,4 +26,3 @@ Run `truffle` tests:
 ```
 npm run test
 ```
-
