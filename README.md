@@ -25,4 +25,5 @@ npm run testrpc
 Run `truffle` tests:
 ```
 npm run test
+
 ```
